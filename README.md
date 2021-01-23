@@ -72,4 +72,4 @@
 
 #Wiki Soon...
 
-#Powered By [@SCapsizer](telegram.me/Capsizer)
+#Powered By [@Capsizer](telegram.me/Capsizer)
